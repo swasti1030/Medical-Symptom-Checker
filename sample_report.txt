@@ -1,0 +1,38 @@
+SYMPTOM CHECKER REPORT
+User Input: I have a sore throat and rash
+Date: 2025-05-24 22:45:10
+
+🩺 Symptom Detected: Sore throat
+🔍 Possible Conditions:
+  - Strep Throat
+  - Cold
+💊 Suggested Medications:
+  - Cepacol
+     ⚠️ Side Effects: Mouth dryness, Tingling
+  - Chloraseptic
+     ⚠️ Side Effects: Numbness in mouth, Allergic reaction
+  - Throat lozenges
+     ⚠️ Side Effects: Mild numbness, Sugar content
+  - Honey-lemon tea
+     ⚠️ Side Effects: None if taken correctly
+
+🩺 Symptom Detected: Rash
+🔍 Possible Conditions:
+  - Allergic Reaction
+  - Eczema
+  - Ringworm
+  - Contact Dermatitis
+💊 Suggested Medications:
+  - Hydrocortisone cream (1%)
+     ⚠️ Side Effects: Thinning skin if overused
+  - Calamine lotion
+     ⚠️ Side Effects: Minimal side effects, Dry skin
+  - Clotrimazole (antifungal cream)
+     ⚠️ Side Effects: Itching, Mild burning
+  - Oral antihistamines (Benadryl)
+     ⚠️ Side Effects: Drowsiness, Dry mouth
+
+⚠️ DISCLAIMER:
+This tool is for educational use only.
+It is not a substitute for professional medical advice, diagnosis, or treatment.
+Please consult a doctor or pharmacist before taking any medications.
